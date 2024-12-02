@@ -1,0 +1,6 @@
+{
+    "search.exclude": {
+        "Python-2.7.18": true,
+        "node_modules": true
+    }
+}
